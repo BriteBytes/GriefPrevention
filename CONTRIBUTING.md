@@ -16,7 +16,7 @@ Thank you for considering contributing to GriefPrevention! This document outline
 
 ### AI
 
-- All commits that use AI (or contain sections of code copied directly from AI) must be attributed (ideally with model and method used) in the commit message.
+- All commits that use AI (or contain sections of AI-generated code) must be attributed (ideally with model and method used) in the commit message.
 - All comments that contain text from AI must be attributed, ideally with model and method used.
 - Including the prompt used is optional, but recommended.
 
